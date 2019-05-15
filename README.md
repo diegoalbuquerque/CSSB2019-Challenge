@@ -11,6 +11,6 @@ The material is intent to be as study material for anyone that has interests in 
 We should not hold responsible for any bad use or misuse of this study material
 
 With a great privilege this challenge has been created by (Eder, Helvio Junior, Ricardo, Rafael and Maico).  
-In Special for Eder and Helvio’s time, for their dedication.
+In Special for Eder and Helvio’s time, for their dedication time and efforts.
 
 Have fun!
