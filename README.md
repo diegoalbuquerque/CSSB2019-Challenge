@@ -1,4 +1,4 @@
-# CSSB2019-Challange
+# CSSB2019-Challenge
 Cyber Security Summit 2019 Challenge - Study case
 
 This is the Cyber Security Summit Challenge 2019
